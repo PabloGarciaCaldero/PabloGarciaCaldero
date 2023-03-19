@@ -6,7 +6,7 @@
  </p><br/>
  
 Hey!👋
-Soc el Pau Garcia, soc un estudiant de la [UPC/EETAC](eetac.upc.edu/).
+Soc el Pau Garcia, soc un estudiant de la [UPC/EETAC](eetac.upc.edu).
 #
 <p>Aquest és el meu git on podeu veure les tasques i projectes en els quals estic treballant. Aquest compte és exclusivament per la universitat, per tant, només veureu coses relacionades amb la uni. Espero que us agradi!</p>
 
