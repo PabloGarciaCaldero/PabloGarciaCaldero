@@ -14,7 +14,7 @@ Soc el Pau Garcia, soc un estudiant de la [UPC/EETAC](eetac.upc.edu).
 ### 🧰 Llenguatges i eines que he utilitzat o utilitzo aculament
 
 <!-- WEB -->
-
+<div align=center>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -31,7 +31,7 @@ Soc el Pau Garcia, soc un estudiant de la [UPC/EETAC](eetac.upc.edu).
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="VIM" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-
+</div>
 
 <br/>
 
@@ -39,24 +39,9 @@ Soc el Pau Garcia, soc un estudiant de la [UPC/EETAC](eetac.upc.edu).
 #
 
 
+<div align=center>
+  <a href="(https://github.com/PabloGarciaCaldero)">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloGarciaCaldero&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGarciaCaldero&layout=compact&show_icons=true&theme=tokyonight"/>
+</div>
 
-![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloGarciaCaldero&show_icons=true&theme=gruvbox)
-
-
-<!--
-### Hi there 👋
-
-
-**PabloGarciaCaldero/PabloGarciaCaldero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
