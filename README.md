@@ -45,3 +45,12 @@ Soc el Pau Garcia, soc un estudiant de la [UPC/EETAC](eetac.upc.edu).
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGarciaCaldero&layout=compact&show_icons=true&theme=tokyonight"/>
 </div>
 
+
+
+
+<div  align=center>
+  <a href="(https://github.com/PabloGarciaCaldero)">
+<img src="https://github-profile-trophy.vercel.app/?username=PabloGarciaCaldero&theme=tokyonight&no-frame=true&row=1"/>
+</div>
+
+  
